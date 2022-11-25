@@ -134,3 +134,21 @@ div#galeria h2{
     padding: 0px 0 3px 0;
     border-bottom: 1px dotted #99a;
 }
+
+#tablazat{
+    margin: 10px auto;
+    padding: 10px 50px;
+    background-color: rgb(165, 165, 165);
+    border-color: blue;
+    border-collapse: collapse;
+    
+}
+#tablazat td{
+    padding: 10px 40px;
+}
+#tablazat tr{
+    border-bottom: 2px solid rgb(117, 117, 117);
+}
+#tablazat tr:nth-child(even){
+    background-color: rgb(207, 207, 207);
+}

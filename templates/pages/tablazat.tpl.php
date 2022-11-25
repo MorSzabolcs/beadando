@@ -1,4 +1,4 @@
-<table>
+<table id="tablazat">
     <tr>
         <th>Név</th>
         <th>Üzenet</th>
