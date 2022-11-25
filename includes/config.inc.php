@@ -15,10 +15,10 @@ $lablec = array(
 
 $oldalak = array(
 	'/' => array('fajl' => 'fooldal', 'szoveg' => 'BEMUTATKOZÁS', 'menun' => array(1,1)),
-	'tamogasson' => array('fajl' => 'tamogasson', 'szoveg' => 'TÁMOGASSON', 'menun' => array(1,1)),
 	'galeria' => array('fajl' => 'galeria', 'szoveg' => 'GALÉRIA', 'menun' => array(1,1)),
     'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'KAPCSOLAT', 'menun' => array(1,1)),
-    'eredeti' => array('fajl' => 'eredeti', 'szoveg' => 'EREDETI OLDAL', 'menun' => array(1,0)),
+    'tablazat' => array('fajl' => 'tablazat', 'szoveg' => 'TÁBLÁZAT', 'menun' => array(1,1)),
+    'eredeti' => array('fajl' => 'eredeti', 'szoveg' => 'EREDETI OLDAL', 'menun' => array(1,1)),
     'belepes' => array('fajl' => 'belepes', 'szoveg' => 'Belépés', 'menun' => array(1,0)),
     'kilepes' => array('fajl' => 'kilepes', 'szoveg' => 'Kilépés', 'menun' => array(0,1)),
     'belep' => array('fajl' => 'belep', 'szoveg' => '', 'menun' => array(0,0)),
